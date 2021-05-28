@@ -10,15 +10,15 @@ Realizuota vektorių klasė
 
 
 Užpildant vektorius 100.000 kartų, capacity() == size():
-* std::vector - 27 kartų
-* Mano Vector - 27 kartų
+* std::vector - 18 kartų
+* Mano Vector - 18 kartų
 
 ### Studentų test'inimas su 100.000 studentų
 
 |                 |  Bendras laikas |
 | :-------------- |:--------------- | 
-| std::vector     |    0.349473     |
-| Mano Vector     |    0.342772     |
+| std::vector     |    0.115806     |
+| Mano Vector     |    0.134953     |
 
 
 ## <a name="at"></a>Vector::at()
